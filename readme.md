@@ -1,3 +1,3 @@
 # Natours Application
 
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
+Backend gyakorló projekt. NodeJs, ExpressJs, MongoDb, Middleware, Router, Controller, SSR, Pug template
